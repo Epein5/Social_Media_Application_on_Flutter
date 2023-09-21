@@ -1,16 +1,9 @@
-# flutter_application_1
+# FLUTTER X FIREBASE
 
-A new Flutter project.
+## About the project
+Role based Flutter application with firebase as its backend and Firebase Firestore for storing data.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contains authencation for login and signup
+Role-User can post (as in facebook) delete post .
+Role-SUBADMIN can block/unblock users. and  all the featues available to the Users.
+Role -ADMIN can promote Users to SUBADMINS and SubAdmins to Users.
